@@ -5,7 +5,7 @@ Author informed stance detection - paper artifacts
 
 Below is the data dictionary describing the fields in the dataset.
 
-![Data Dictionary Reference](image_c10a6a.png)
+[Data Dictionary Reference]
 
 | Field | Meaning |
 | :--- | :--- |
