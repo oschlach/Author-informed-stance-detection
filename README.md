@@ -1,6 +1,4 @@
 # Author-informed-stance-detection
-Author informed stance detection - paper artifacts
-
 # Dataset Data Dictionary
 
 Below is the data dictionary describing the fields in the dataset.
