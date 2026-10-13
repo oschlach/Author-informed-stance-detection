@@ -1,7 +1,7 @@
 # Reframing Political Stance Detection as Author-Informed Social Text Understanding
-# Dataset Data Dictionary
+## Dataset Data Dictionary
 
-Below is the data dictionary describing the fields in the dataset.
+Below is the data dictionary describing the fields in the testset.
 
 | Field | Meaning |
 | :--- | :--- |
